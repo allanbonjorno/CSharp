@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "exemploCookBook/1.0.0": {
+        "runtime": {
+          "exemploCookBook.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "exemploCookBook/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
