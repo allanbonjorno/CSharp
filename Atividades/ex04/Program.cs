@@ -1,6 +1,6 @@
 ﻿namespace ex04
 {
-    internal class Program
+    internal class Programm
     {
         static void Main(string[] args)
         {

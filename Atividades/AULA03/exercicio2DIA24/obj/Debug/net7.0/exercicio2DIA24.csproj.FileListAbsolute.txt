@@ -1,0 +1,15 @@
+C:\Users\Carlos\OneDrive\Área de Trabalho\c#\Atividades\AULA03\exercicio2DIA24\bin\Debug\net7.0\exercicio2DIA24.exe
+C:\Users\Carlos\OneDrive\Área de Trabalho\c#\Atividades\AULA03\exercicio2DIA24\bin\Debug\net7.0\exercicio2DIA24.deps.json
+C:\Users\Carlos\OneDrive\Área de Trabalho\c#\Atividades\AULA03\exercicio2DIA24\bin\Debug\net7.0\exercicio2DIA24.runtimeconfig.json
+C:\Users\Carlos\OneDrive\Área de Trabalho\c#\Atividades\AULA03\exercicio2DIA24\bin\Debug\net7.0\exercicio2DIA24.dll
+C:\Users\Carlos\OneDrive\Área de Trabalho\c#\Atividades\AULA03\exercicio2DIA24\bin\Debug\net7.0\exercicio2DIA24.pdb
+C:\Users\Carlos\OneDrive\Área de Trabalho\c#\Atividades\AULA03\exercicio2DIA24\obj\Debug\net7.0\exercicio2DIA24.csproj.AssemblyReference.cache
+C:\Users\Carlos\OneDrive\Área de Trabalho\c#\Atividades\AULA03\exercicio2DIA24\obj\Debug\net7.0\exercicio2DIA24.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Carlos\OneDrive\Área de Trabalho\c#\Atividades\AULA03\exercicio2DIA24\obj\Debug\net7.0\exercicio2DIA24.AssemblyInfoInputs.cache
+C:\Users\Carlos\OneDrive\Área de Trabalho\c#\Atividades\AULA03\exercicio2DIA24\obj\Debug\net7.0\exercicio2DIA24.AssemblyInfo.cs
+C:\Users\Carlos\OneDrive\Área de Trabalho\c#\Atividades\AULA03\exercicio2DIA24\obj\Debug\net7.0\exercicio2DIA24.csproj.CoreCompileInputs.cache
+C:\Users\Carlos\OneDrive\Área de Trabalho\c#\Atividades\AULA03\exercicio2DIA24\obj\Debug\net7.0\exercicio2DIA24.dll
+C:\Users\Carlos\OneDrive\Área de Trabalho\c#\Atividades\AULA03\exercicio2DIA24\obj\Debug\net7.0\refint\exercicio2DIA24.dll
+C:\Users\Carlos\OneDrive\Área de Trabalho\c#\Atividades\AULA03\exercicio2DIA24\obj\Debug\net7.0\exercicio2DIA24.pdb
+C:\Users\Carlos\OneDrive\Área de Trabalho\c#\Atividades\AULA03\exercicio2DIA24\obj\Debug\net7.0\exercicio2DIA24.genruntimeconfig.cache
+C:\Users\Carlos\OneDrive\Área de Trabalho\c#\Atividades\AULA03\exercicio2DIA24\obj\Debug\net7.0\ref\exercicio2DIA24.dll

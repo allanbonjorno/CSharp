@@ -13,3 +13,18 @@ C:\Users\Carlos\OneDrive\Área de Trabalho\c#\AULA 02\Aula 2 C# - Calculadora\ob
 C:\Users\Carlos\OneDrive\Área de Trabalho\c#\AULA 02\Aula 2 C# - Calculadora\obj\Debug\net7.0\Aula 2 C# - Calculadora.pdb
 C:\Users\Carlos\OneDrive\Área de Trabalho\c#\AULA 02\Aula 2 C# - Calculadora\obj\Debug\net7.0\Aula 2 C# - Calculadora.genruntimeconfig.cache
 C:\Users\Carlos\OneDrive\Área de Trabalho\c#\AULA 02\Aula 2 C# - Calculadora\obj\Debug\net7.0\ref\Aula 2 C# - Calculadora.dll
+C:\Users\Carlos\OneDrive\Área de Trabalho\c#\Atividades\Aula 2 C# - Calculadora\bin\Debug\net7.0\Aula 2 C# - Calculadora.exe
+C:\Users\Carlos\OneDrive\Área de Trabalho\c#\Atividades\Aula 2 C# - Calculadora\bin\Debug\net7.0\Aula 2 C# - Calculadora.deps.json
+C:\Users\Carlos\OneDrive\Área de Trabalho\c#\Atividades\Aula 2 C# - Calculadora\bin\Debug\net7.0\Aula 2 C# - Calculadora.runtimeconfig.json
+C:\Users\Carlos\OneDrive\Área de Trabalho\c#\Atividades\Aula 2 C# - Calculadora\bin\Debug\net7.0\Aula 2 C# - Calculadora.dll
+C:\Users\Carlos\OneDrive\Área de Trabalho\c#\Atividades\Aula 2 C# - Calculadora\bin\Debug\net7.0\Aula 2 C# - Calculadora.pdb
+C:\Users\Carlos\OneDrive\Área de Trabalho\c#\Atividades\Aula 2 C# - Calculadora\obj\Debug\net7.0\Aula 2 C# - Calculadora.csproj.AssemblyReference.cache
+C:\Users\Carlos\OneDrive\Área de Trabalho\c#\Atividades\Aula 2 C# - Calculadora\obj\Debug\net7.0\Aula 2 C# - Calculadora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Carlos\OneDrive\Área de Trabalho\c#\Atividades\Aula 2 C# - Calculadora\obj\Debug\net7.0\Aula 2 C# - Calculadora.AssemblyInfoInputs.cache
+C:\Users\Carlos\OneDrive\Área de Trabalho\c#\Atividades\Aula 2 C# - Calculadora\obj\Debug\net7.0\Aula 2 C# - Calculadora.AssemblyInfo.cs
+C:\Users\Carlos\OneDrive\Área de Trabalho\c#\Atividades\Aula 2 C# - Calculadora\obj\Debug\net7.0\Aula 2 C# - Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\Carlos\OneDrive\Área de Trabalho\c#\Atividades\Aula 2 C# - Calculadora\obj\Debug\net7.0\Aula 2 C# - Calculadora.dll
+C:\Users\Carlos\OneDrive\Área de Trabalho\c#\Atividades\Aula 2 C# - Calculadora\obj\Debug\net7.0\refint\Aula 2 C# - Calculadora.dll
+C:\Users\Carlos\OneDrive\Área de Trabalho\c#\Atividades\Aula 2 C# - Calculadora\obj\Debug\net7.0\Aula 2 C# - Calculadora.pdb
+C:\Users\Carlos\OneDrive\Área de Trabalho\c#\Atividades\Aula 2 C# - Calculadora\obj\Debug\net7.0\Aula 2 C# - Calculadora.genruntimeconfig.cache
+C:\Users\Carlos\OneDrive\Área de Trabalho\c#\Atividades\Aula 2 C# - Calculadora\obj\Debug\net7.0\ref\Aula 2 C# - Calculadora.dll

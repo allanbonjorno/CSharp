@@ -1,0 +1,15 @@
+C:\Users\Carlos\OneDrive\Área de Trabalho\c#\Atividades\AULA03\PlanodeSaude\bin\Debug\net7.0\PlanodeSaude.exe
+C:\Users\Carlos\OneDrive\Área de Trabalho\c#\Atividades\AULA03\PlanodeSaude\bin\Debug\net7.0\PlanodeSaude.deps.json
+C:\Users\Carlos\OneDrive\Área de Trabalho\c#\Atividades\AULA03\PlanodeSaude\bin\Debug\net7.0\PlanodeSaude.runtimeconfig.json
+C:\Users\Carlos\OneDrive\Área de Trabalho\c#\Atividades\AULA03\PlanodeSaude\bin\Debug\net7.0\PlanodeSaude.dll
+C:\Users\Carlos\OneDrive\Área de Trabalho\c#\Atividades\AULA03\PlanodeSaude\bin\Debug\net7.0\PlanodeSaude.pdb
+C:\Users\Carlos\OneDrive\Área de Trabalho\c#\Atividades\AULA03\PlanodeSaude\obj\Debug\net7.0\PlanodeSaude.csproj.AssemblyReference.cache
+C:\Users\Carlos\OneDrive\Área de Trabalho\c#\Atividades\AULA03\PlanodeSaude\obj\Debug\net7.0\PlanodeSaude.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Carlos\OneDrive\Área de Trabalho\c#\Atividades\AULA03\PlanodeSaude\obj\Debug\net7.0\PlanodeSaude.AssemblyInfoInputs.cache
+C:\Users\Carlos\OneDrive\Área de Trabalho\c#\Atividades\AULA03\PlanodeSaude\obj\Debug\net7.0\PlanodeSaude.AssemblyInfo.cs
+C:\Users\Carlos\OneDrive\Área de Trabalho\c#\Atividades\AULA03\PlanodeSaude\obj\Debug\net7.0\PlanodeSaude.csproj.CoreCompileInputs.cache
+C:\Users\Carlos\OneDrive\Área de Trabalho\c#\Atividades\AULA03\PlanodeSaude\obj\Debug\net7.0\PlanodeSaude.dll
+C:\Users\Carlos\OneDrive\Área de Trabalho\c#\Atividades\AULA03\PlanodeSaude\obj\Debug\net7.0\refint\PlanodeSaude.dll
+C:\Users\Carlos\OneDrive\Área de Trabalho\c#\Atividades\AULA03\PlanodeSaude\obj\Debug\net7.0\PlanodeSaude.pdb
+C:\Users\Carlos\OneDrive\Área de Trabalho\c#\Atividades\AULA03\PlanodeSaude\obj\Debug\net7.0\PlanodeSaude.genruntimeconfig.cache
+C:\Users\Carlos\OneDrive\Área de Trabalho\c#\Atividades\AULA03\PlanodeSaude\obj\Debug\net7.0\ref\PlanodeSaude.dll

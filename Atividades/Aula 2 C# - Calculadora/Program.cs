@@ -12,7 +12,14 @@
             Console.WriteLine(numero1 + " " + numero2);
             Console.WriteLine($"\n{numero1} + {numero2} = " + (numero1 + numero2));
             Console.WriteLine($"\n{numero1} - {numero2} = " + (numero1 - numero2).ToString("F2"));
-            Console.WriteLine($"\n{numero1} / {numero2} = " + (numero1 / numero2).ToString("F2"));
+            if (numero2 > 0)
+            {
+                Console.WriteLine($"\n{numero1} / {numero2} = " + (numero1 / numero2).ToString("F2"));
+            }
+            else
+            {
+                Console.WriteLine("Não existe divisão por ZERO!");
+            }
             Console.WriteLine($"\n{numero1} * {numero2} = " + (numero1 * numero2));
             Console.WriteLine(Math.Round(numero1 / numero1 * numero2));
             Console.WriteLine($"{numero1} ^ {numero2} = " + Math.Pow(numero1,numero2));

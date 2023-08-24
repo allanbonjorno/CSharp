@@ -1,0 +1,15 @@
+C:\Users\Carlos\OneDrive\Área de Trabalho\c#\Atividades\AULA03\exercicio4DIA24\obj\Debug\net7.0\exercicio4DIA24.csproj.AssemblyReference.cache
+C:\Users\Carlos\OneDrive\Área de Trabalho\c#\Atividades\AULA03\exercicio4DIA24\obj\Debug\net7.0\exercicio4DIA24.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Carlos\OneDrive\Área de Trabalho\c#\Atividades\AULA03\exercicio4DIA24\obj\Debug\net7.0\exercicio4DIA24.AssemblyInfoInputs.cache
+C:\Users\Carlos\OneDrive\Área de Trabalho\c#\Atividades\AULA03\exercicio4DIA24\obj\Debug\net7.0\exercicio4DIA24.AssemblyInfo.cs
+C:\Users\Carlos\OneDrive\Área de Trabalho\c#\Atividades\AULA03\exercicio4DIA24\obj\Debug\net7.0\exercicio4DIA24.csproj.CoreCompileInputs.cache
+C:\Users\Carlos\OneDrive\Área de Trabalho\c#\Atividades\AULA03\exercicio4DIA24\bin\Debug\net7.0\exercicio4DIA24.exe
+C:\Users\Carlos\OneDrive\Área de Trabalho\c#\Atividades\AULA03\exercicio4DIA24\bin\Debug\net7.0\exercicio4DIA24.deps.json
+C:\Users\Carlos\OneDrive\Área de Trabalho\c#\Atividades\AULA03\exercicio4DIA24\bin\Debug\net7.0\exercicio4DIA24.runtimeconfig.json
+C:\Users\Carlos\OneDrive\Área de Trabalho\c#\Atividades\AULA03\exercicio4DIA24\bin\Debug\net7.0\exercicio4DIA24.dll
+C:\Users\Carlos\OneDrive\Área de Trabalho\c#\Atividades\AULA03\exercicio4DIA24\bin\Debug\net7.0\exercicio4DIA24.pdb
+C:\Users\Carlos\OneDrive\Área de Trabalho\c#\Atividades\AULA03\exercicio4DIA24\obj\Debug\net7.0\exercicio4DIA24.dll
+C:\Users\Carlos\OneDrive\Área de Trabalho\c#\Atividades\AULA03\exercicio4DIA24\obj\Debug\net7.0\refint\exercicio4DIA24.dll
+C:\Users\Carlos\OneDrive\Área de Trabalho\c#\Atividades\AULA03\exercicio4DIA24\obj\Debug\net7.0\exercicio4DIA24.pdb
+C:\Users\Carlos\OneDrive\Área de Trabalho\c#\Atividades\AULA03\exercicio4DIA24\obj\Debug\net7.0\exercicio4DIA24.genruntimeconfig.cache
+C:\Users\Carlos\OneDrive\Área de Trabalho\c#\Atividades\AULA03\exercicio4DIA24\obj\Debug\net7.0\ref\exercicio4DIA24.dll
