@@ -1,0 +1,15 @@
+C:\Users\Carlos\OneDrive\Área de Trabalho\c#\aula05\vetores\Aula05\bin\Debug\net7.0\Aula05.exe
+C:\Users\Carlos\OneDrive\Área de Trabalho\c#\aula05\vetores\Aula05\bin\Debug\net7.0\Aula05.deps.json
+C:\Users\Carlos\OneDrive\Área de Trabalho\c#\aula05\vetores\Aula05\bin\Debug\net7.0\Aula05.runtimeconfig.json
+C:\Users\Carlos\OneDrive\Área de Trabalho\c#\aula05\vetores\Aula05\bin\Debug\net7.0\Aula05.dll
+C:\Users\Carlos\OneDrive\Área de Trabalho\c#\aula05\vetores\Aula05\bin\Debug\net7.0\Aula05.pdb
+C:\Users\Carlos\OneDrive\Área de Trabalho\c#\aula05\vetores\Aula05\obj\Debug\net7.0\Aula05.csproj.AssemblyReference.cache
+C:\Users\Carlos\OneDrive\Área de Trabalho\c#\aula05\vetores\Aula05\obj\Debug\net7.0\Aula05.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Carlos\OneDrive\Área de Trabalho\c#\aula05\vetores\Aula05\obj\Debug\net7.0\Aula05.AssemblyInfoInputs.cache
+C:\Users\Carlos\OneDrive\Área de Trabalho\c#\aula05\vetores\Aula05\obj\Debug\net7.0\Aula05.AssemblyInfo.cs
+C:\Users\Carlos\OneDrive\Área de Trabalho\c#\aula05\vetores\Aula05\obj\Debug\net7.0\Aula05.csproj.CoreCompileInputs.cache
+C:\Users\Carlos\OneDrive\Área de Trabalho\c#\aula05\vetores\Aula05\obj\Debug\net7.0\Aula05.dll
+C:\Users\Carlos\OneDrive\Área de Trabalho\c#\aula05\vetores\Aula05\obj\Debug\net7.0\refint\Aula05.dll
+C:\Users\Carlos\OneDrive\Área de Trabalho\c#\aula05\vetores\Aula05\obj\Debug\net7.0\Aula05.pdb
+C:\Users\Carlos\OneDrive\Área de Trabalho\c#\aula05\vetores\Aula05\obj\Debug\net7.0\Aula05.genruntimeconfig.cache
+C:\Users\Carlos\OneDrive\Área de Trabalho\c#\aula05\vetores\Aula05\obj\Debug\net7.0\ref\Aula05.dll
