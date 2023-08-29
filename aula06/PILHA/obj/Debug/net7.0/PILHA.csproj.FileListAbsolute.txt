@@ -1,0 +1,15 @@
+C:\Users\Carlos\OneDrive\Área de Trabalho\c#\aula06\PILHA\bin\Debug\net7.0\PILHA.exe
+C:\Users\Carlos\OneDrive\Área de Trabalho\c#\aula06\PILHA\bin\Debug\net7.0\PILHA.deps.json
+C:\Users\Carlos\OneDrive\Área de Trabalho\c#\aula06\PILHA\bin\Debug\net7.0\PILHA.runtimeconfig.json
+C:\Users\Carlos\OneDrive\Área de Trabalho\c#\aula06\PILHA\bin\Debug\net7.0\PILHA.dll
+C:\Users\Carlos\OneDrive\Área de Trabalho\c#\aula06\PILHA\bin\Debug\net7.0\PILHA.pdb
+C:\Users\Carlos\OneDrive\Área de Trabalho\c#\aula06\PILHA\obj\Debug\net7.0\PILHA.csproj.AssemblyReference.cache
+C:\Users\Carlos\OneDrive\Área de Trabalho\c#\aula06\PILHA\obj\Debug\net7.0\PILHA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Carlos\OneDrive\Área de Trabalho\c#\aula06\PILHA\obj\Debug\net7.0\PILHA.AssemblyInfoInputs.cache
+C:\Users\Carlos\OneDrive\Área de Trabalho\c#\aula06\PILHA\obj\Debug\net7.0\PILHA.AssemblyInfo.cs
+C:\Users\Carlos\OneDrive\Área de Trabalho\c#\aula06\PILHA\obj\Debug\net7.0\PILHA.csproj.CoreCompileInputs.cache
+C:\Users\Carlos\OneDrive\Área de Trabalho\c#\aula06\PILHA\obj\Debug\net7.0\PILHA.dll
+C:\Users\Carlos\OneDrive\Área de Trabalho\c#\aula06\PILHA\obj\Debug\net7.0\refint\PILHA.dll
+C:\Users\Carlos\OneDrive\Área de Trabalho\c#\aula06\PILHA\obj\Debug\net7.0\PILHA.pdb
+C:\Users\Carlos\OneDrive\Área de Trabalho\c#\aula06\PILHA\obj\Debug\net7.0\PILHA.genruntimeconfig.cache
+C:\Users\Carlos\OneDrive\Área de Trabalho\c#\aula06\PILHA\obj\Debug\net7.0\ref\PILHA.dll
