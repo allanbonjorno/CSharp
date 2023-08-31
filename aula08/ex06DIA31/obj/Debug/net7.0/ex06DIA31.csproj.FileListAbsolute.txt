@@ -1,0 +1,15 @@
+C:\Users\Carlos\OneDrive\Área de Trabalho\c#\aula08\ex06DIA31\bin\Debug\net7.0\ex06DIA31.exe
+C:\Users\Carlos\OneDrive\Área de Trabalho\c#\aula08\ex06DIA31\bin\Debug\net7.0\ex06DIA31.deps.json
+C:\Users\Carlos\OneDrive\Área de Trabalho\c#\aula08\ex06DIA31\bin\Debug\net7.0\ex06DIA31.runtimeconfig.json
+C:\Users\Carlos\OneDrive\Área de Trabalho\c#\aula08\ex06DIA31\bin\Debug\net7.0\ex06DIA31.dll
+C:\Users\Carlos\OneDrive\Área de Trabalho\c#\aula08\ex06DIA31\bin\Debug\net7.0\ex06DIA31.pdb
+C:\Users\Carlos\OneDrive\Área de Trabalho\c#\aula08\ex06DIA31\obj\Debug\net7.0\ex06DIA31.csproj.AssemblyReference.cache
+C:\Users\Carlos\OneDrive\Área de Trabalho\c#\aula08\ex06DIA31\obj\Debug\net7.0\ex06DIA31.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Carlos\OneDrive\Área de Trabalho\c#\aula08\ex06DIA31\obj\Debug\net7.0\ex06DIA31.AssemblyInfoInputs.cache
+C:\Users\Carlos\OneDrive\Área de Trabalho\c#\aula08\ex06DIA31\obj\Debug\net7.0\ex06DIA31.AssemblyInfo.cs
+C:\Users\Carlos\OneDrive\Área de Trabalho\c#\aula08\ex06DIA31\obj\Debug\net7.0\ex06DIA31.csproj.CoreCompileInputs.cache
+C:\Users\Carlos\OneDrive\Área de Trabalho\c#\aula08\ex06DIA31\obj\Debug\net7.0\ex06DIA31.dll
+C:\Users\Carlos\OneDrive\Área de Trabalho\c#\aula08\ex06DIA31\obj\Debug\net7.0\refint\ex06DIA31.dll
+C:\Users\Carlos\OneDrive\Área de Trabalho\c#\aula08\ex06DIA31\obj\Debug\net7.0\ex06DIA31.pdb
+C:\Users\Carlos\OneDrive\Área de Trabalho\c#\aula08\ex06DIA31\obj\Debug\net7.0\ex06DIA31.genruntimeconfig.cache
+C:\Users\Carlos\OneDrive\Área de Trabalho\c#\aula08\ex06DIA31\obj\Debug\net7.0\ref\ex06DIA31.dll
